@@ -1,0 +1,42 @@
+
+========================================
+     SOLAR/COR TUITION CALCULATOR     
+========================================
+
+
+--- STUDENT INFORMATION SUMMARY ---
+Enrollment Status: ENROLLED
+Student Number: 202511566
+Name: Raymond C. Ricohermoso Jr.
+Phone: 09619186127
+ZIP Code: 1870
+College: COMPUTER STUDIES
+Program: BSCSSE
+Year Level: 2
+Term: 1st Term
+School Year: SY 26-27
+Address: B4 L9 GOLDEN PALM RESIDENCES
+
+--- SUBJECT UNIT SUMMARY ---
+1. CCS0021 - INFORMATION MANAGEMENT (LEC) Units: 2
+2. CCS0021L - INFORMATION MANAGEMENT (LAB) Units: 1
+3. CS0001 - DISCRETE STRUCTURES I Units: 3
+4. CS0003 - COMPUTER SYSTEMS & ARCHITECTURE Units: 2
+5. CS0003L - COMPUTER SYSTEMS & ARCHITECTURE (LAB) Units: 1
+6. CS0070 - OBJECT ORIENTED PROGRAMMING Units: 2
+7. CS0070L - OBJECT ORIENTED PROGRAMMING-LAB Units: 1
+8. GED0021 - SPECIALIZED ENGLISH PROGRAM 2 Units: 3
+9. GED0055 - MATHEMATICAL ANALYSIS Units: 3
+10. GED0081 - COLLEGE PHYSICS 1 LECTURE Units: 2
+11. GED0081L - COLLEGE PHYSICS 1 LABORATORY Units: 1
+
+--- TUITION FEE SUMMARY ---
+Total units: 21
+Unit price: PHP 1000
+Tuition (total units x PHP 1,000): PHP 21000
+Laboratory subjects taken: 4
+Laboratory fee (PHP 2,500 each): PHP 10000
+TOTAL ESTIMATED TUITION + LAB FEES: PHP 31000
+
+Note: This estimate excludes miscellaneous, ID validation,
+and any other fees not specified in the calculation.
